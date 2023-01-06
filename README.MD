@@ -1,4 +1,4 @@
 # Hack-This-Site-Tools
 ## Project Details
-This is a tool to decrypt the password for Hack This Site Basic Exercise #6
-[Basic Exercise #6](https://www.hackthissite.org/missions/basic/6/)
+This project is a collection of tools I made for the Hack This Site missions.\n
+[Hack This Site](https://www.hackthissite.org)
